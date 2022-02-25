@@ -48,7 +48,7 @@ class Ui_Dialog(object):
         self.line.setFrameShadow(QtWidgets.QFrame.Sunken)
         self.line.setObjectName("line")
         self.label_5 = QtWidgets.QLabel(Dialog)
-        self.label_5.setGeometry(QtCore.QRect(30, 190, 47, 13))
+        self.label_5.setGeometry(QtCore.QRect(30, 190, 187, 13))
         self.label_5.setObjectName("label_5")
         self.pushButton_2 = QtWidgets.QPushButton(Dialog)
         self.pushButton_2.setGeometry(QtCore.QRect(450, 120, 75, 23))
