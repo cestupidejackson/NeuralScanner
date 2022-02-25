@@ -73,7 +73,7 @@ class Ui_Dialog(object):
         self.pushButton.setText(_translate("Dialog", "Suchen"))
         self.label_2.setText(_translate("Dialog", "Image"))
         self.label_3.setText(_translate("Dialog", "Name des PDF\'s"))
-        self.label_5.setText(_translate("Dialog", "TextLabel"))
+        self.label_5.setText(_translate("Dialog", "Umwandlung noch nicht gestartet"))
         self.pushButton_2.setText(_translate("Dialog", "Umwandeln"))
         self.label_4.setText(_translate("Dialog", "Copyright 2022, Varun Vivekanantharasa"))
     #secondWindowInitialisation 
